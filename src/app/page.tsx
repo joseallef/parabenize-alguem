@@ -64,7 +64,7 @@ export default function Home() {
         <div className="flex items-center justify-center">
           <span className="relative flex shrink-0 overflow-hidden rounded-full">
             <span className="flex h-48 w-48 items-center justify-center rounded-full bg-muted">
-              <img src="https://private-user-images.githubusercontent.com/46696111/298399529-51be73ef-903f-46bc-9dac-58db4c0426b0.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU4NjY1MTcsIm5iZiI6MTcwNTg2NjIxNywicGF0aCI6Ii80NjY5NjExMS8yOTgzOTk1MjktNTFiZTczZWYtOTAzZi00NmJjLTlkYWMtNThkYjRjMDQyNmIwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTIxVDE5NDMzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFhNTI1NTU3YThmZDNkZjVkYTRmMGI2NmZkOWUxMjNhMmMwNzlkOGFmNDExOGVkZDA1YTA4ODA5YzJiMTMzYjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Uw40G7GpDONXC_VOGcNCclYCy9BTA9-94Xgti6EObvo"
+              <img src="https://www.datocms-assets.com/45981/1705867193-out-0-1.png?auto=format&w=283.75"
                 alt="Avatar"
               />
             </span>
