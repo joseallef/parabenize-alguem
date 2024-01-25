@@ -2,8 +2,8 @@ import { useEffect, useState } from "react"
 
 export const useWindowSize = () => {
   const [windowSize, setWindowSize] = useState({
-    width: 1200,
-    height: 730
+    width: 0,
+    height: 0
   });
 
   useEffect(() => {
